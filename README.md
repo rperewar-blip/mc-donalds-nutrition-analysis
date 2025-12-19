@@ -25,5 +25,5 @@ This project analyzes the nutritional composition of McDonald's menu items to id
 - Excel analysis
 - Presentation slides
 
-- Dakshayani
+  
 
